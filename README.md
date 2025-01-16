@@ -1,4 +1,6 @@
-# Portfolio
+# Yandex Practicum Data Science Projects
+
+[![Yandex Practicum](https://code.s3.yandex.net/main-page-v5/new_logo.svg)](https://practicum.yandex.ru/)
 
 Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии "Специалист по Data Science".
 
